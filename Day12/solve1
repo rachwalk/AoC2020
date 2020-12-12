@@ -1,0 +1,31 @@
+N 2
+Waypoint: 3 10
+Ship:  0 0
+
+
+R 90
+Waypoint: -10 3
+Ship:  0 0
+
+
+S 2
+Waypoint: -12 3
+Ship:  0 0
+
+
+F 40
+Waypoint: -12 3
+Ship:  -480 120
+
+
+R 180
+Waypoint: 12 -3
+Ship:  -480 120
+
+
+F 50
+Waypoint: 12 -3
+Ship:  120 -30
+
+
+150
